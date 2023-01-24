@@ -1,0 +1,46 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+}
+
+button {
+  margin: 10px;
+  height: 30px;
+  width: 100px;
+  background-color: darkblue;
+  color: aliceblue;
+  border-radius: 5px;
+}
+
+.para {
+  font-size: 100px;
+  text-decoration: underline;
+  color: green;
+}
+
+.sub-container {
+  border: 10px solid rgb(10, 67, 223);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 75px;
+  background-color: aquamarine;
+  width: 600px;
+  height: 500px;
+}
+
+h1 {
+  padding-top: 25px;
+  text-decoration: underline;
+}
+.para {
+  color: red;
+}
+
+.para {
+  color: black;
+}
